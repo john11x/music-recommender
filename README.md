@@ -1,5 +1,7 @@
 ## Similar Tracks Script (via Last.fm API)
 
+[![Python](https://img.shields.io/badge/Language-Python-green?logo=python)](https://www.python.org/)
+
 This Python script fetches **similar songs** from the [Last.fm API](https://www.last.fm/api) based on a given track and artist.  
 It encodes the query parameters, sends an HTTP request, and returns related tracks in clean JSON format — making it easy to integrate with other apps.
 
